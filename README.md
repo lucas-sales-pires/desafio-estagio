@@ -21,7 +21,7 @@ Este desafio foi proposto para disputa de uma vaga de estágio
 ## Imagens 
 
 ### Cadastro
-![image](../desafio-estagio/assets/cadastro.png)
+![image](./assets/cadastro.png)
 
 ### Listagem
 ![image](../desafio-estagio/assets/listagem.png)
