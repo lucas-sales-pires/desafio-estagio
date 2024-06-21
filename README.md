@@ -24,7 +24,7 @@ Este desafio foi proposto para disputa de uma vaga de estágio
 ![image](./assets/cadastro.png)
 
 ### Listagem
-![image](../desafio-estagio/assets/listagem.png)
+![image](./assets/listagem.png)
 
 
 ## Tecnologias utilizadas
